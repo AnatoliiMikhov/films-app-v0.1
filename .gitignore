@@ -7,6 +7,9 @@
 .idea
 .jshintrc
 
+# test
+/test
+
 # testing
 /coverage
 
